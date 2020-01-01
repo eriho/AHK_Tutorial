@@ -24,7 +24,7 @@
 
 ## サンプルコード
 
-サンプルコードを以下に示します。[こちら]()からダウンロードもできます。
+サンプルコードを以下に示します。[こちら](https://github.com/eriho/AHK_Tutorial)からダウンロードもできます。
 
 いきなり長いコードに圧倒されるかもしれませんが、一つずつ見ていきましょう。
 
@@ -67,6 +67,11 @@
 					sleep, st
 					; alt+tabでアプリケーション切り替えてwordにする
 					}
+			else
+				{ msgbox, エクセルが立ち上がっていません
+					return
+				}
+				
 
 			; word側で貼り付け
 			WinActivate, ahk_exe WINWORD.EXE
