@@ -1,3 +1,5 @@
+<link href="./css/path/to/hoge.css" rel="stylesheet"></link>
+
 # AHKでいろいろやってみよう(その2)
 
 ## はじめに

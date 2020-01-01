@@ -1,3 +1,5 @@
+<link href="./css/path/to/hoge.css" rel="stylesheet"></link>
+
 # 目的
 
 本ページではAutoHotkey(AHK)の初心者向けチュートリアル記事を公開します。
