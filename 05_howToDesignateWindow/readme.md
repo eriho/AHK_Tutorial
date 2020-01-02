@@ -1,4 +1,4 @@
-<link href="./css/path/to/hoge.css" rel="stylesheet"></link>
+<link href="../css/nk.css" rel="stylesheet"></link>
 
 # AHKでいろいろやってみよう(その2)
 
