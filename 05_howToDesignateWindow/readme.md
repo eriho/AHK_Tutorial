@@ -1,4 +1,3 @@
-<link href="../css/nk.css" rel="stylesheet"></link>
 
 # AHKでいろいろやってみよう(その2)
 
